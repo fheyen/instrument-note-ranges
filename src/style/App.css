@@ -108,9 +108,7 @@ body {
 
 /* Views */
 .View {
-    background: var(--viewBgColor);
     position: relative;
-    border: 1px solid var(--viewBorderColor);
     border-radius: 5px;
     padding-bottom: 5px;
 }
