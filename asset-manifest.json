@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/instrument-note-ranges/static/css/main.285539d4.chunk.css",
+    "main.js": "/instrument-note-ranges/static/js/main.57076c5a.chunk.js",
+    "main.js.map": "/instrument-note-ranges/static/js/main.57076c5a.chunk.js.map",
+    "runtime-main.js": "/instrument-note-ranges/static/js/runtime-main.5f25115c.js",
+    "runtime-main.js.map": "/instrument-note-ranges/static/js/runtime-main.5f25115c.js.map",
+    "static/js/2.ec02a473.chunk.js": "/instrument-note-ranges/static/js/2.ec02a473.chunk.js",
+    "static/js/2.ec02a473.chunk.js.map": "/instrument-note-ranges/static/js/2.ec02a473.chunk.js.map",
+    "index.html": "/instrument-note-ranges/index.html",
+    "precache-manifest.dfd4b379c98bf54e5c32b099575b52f8.js": "/instrument-note-ranges/precache-manifest.dfd4b379c98bf54e5c32b099575b52f8.js",
+    "service-worker.js": "/instrument-note-ranges/service-worker.js",
+    "static/css/main.285539d4.chunk.css.map": "/instrument-note-ranges/static/css/main.285539d4.chunk.css.map",
+    "static/js/2.ec02a473.chunk.js.LICENSE": "/instrument-note-ranges/static/js/2.ec02a473.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f25115c.js",
+    "static/js/2.ec02a473.chunk.js",
+    "static/css/main.285539d4.chunk.css",
+    "static/js/main.57076c5a.chunk.js"
+  ]
+}
